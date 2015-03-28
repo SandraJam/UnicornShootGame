@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1ed65676ee2650840b2ae068dc51bf7d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerShotSound: {fileID: 8300000, guid: a2dec13fde930f24c8962851aaa0d8fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
